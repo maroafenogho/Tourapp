@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Know-PH</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="eateries">Eateries</string>
+    <string name="schools">Schools</string>
+    <string name="hotels">Hotels</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="shopping">Shopping</string>
+</resources>

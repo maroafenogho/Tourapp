@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2C3E50</item>
+        <item name="colorPrimaryDark">#212F3D </item>
+        <item name="colorAccent">#20898D </item>
+    </style>
+
+    <style name= "VenueTab." parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/VenueTabTextAppearance.</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabIndicatorColor">#ffffff</item>
+    </style>
+
+    <style name="VenueTabTextAppearance." parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#A8A19E</item>
+    </style>
+
+</resources>
